@@ -18,3 +18,5 @@
 
 ## 写経チェック
 - オリジナル
+
+[https://kosuke-samurai.github.io/questionsurvey/]
